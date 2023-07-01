@@ -1,0 +1,24 @@
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\classlib\bin\Debug\net6.0\classlib.deps.json
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\classlib\bin\Debug\net6.0\classlib.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\classlib\bin\Debug\net6.0\ref\classlib.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\classlib\bin\Debug\net6.0\classlib.pdb
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\classlib\obj\Debug\net6.0\classlib.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\classlib\obj\Debug\net6.0\classlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\classlib\obj\Debug\net6.0\classlib.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\classlib\obj\Debug\net6.0\classlib.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\classlib\obj\Debug\net6.0\classlib.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\classlib\obj\Debug\net6.0\classlib.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\classlib\obj\Debug\net6.0\ref\classlib.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\classlib\obj\Debug\net6.0\classlib.pdb
+C:\git\AP00012\FinalProject\wpfclient\classlib\bin\Debug\net6.0\classlib.deps.json
+C:\git\AP00012\FinalProject\wpfclient\classlib\bin\Debug\net6.0\classlib.dll
+C:\git\AP00012\FinalProject\wpfclient\classlib\bin\Debug\net6.0\ref\classlib.dll
+C:\git\AP00012\FinalProject\wpfclient\classlib\bin\Debug\net6.0\classlib.pdb
+C:\git\AP00012\FinalProject\wpfclient\classlib\obj\Debug\net6.0\classlib.csproj.AssemblyReference.cache
+C:\git\AP00012\FinalProject\wpfclient\classlib\obj\Debug\net6.0\classlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\AP00012\FinalProject\wpfclient\classlib\obj\Debug\net6.0\classlib.AssemblyInfoInputs.cache
+C:\git\AP00012\FinalProject\wpfclient\classlib\obj\Debug\net6.0\classlib.AssemblyInfo.cs
+C:\git\AP00012\FinalProject\wpfclient\classlib\obj\Debug\net6.0\classlib.csproj.CoreCompileInputs.cache
+C:\git\AP00012\FinalProject\wpfclient\classlib\obj\Debug\net6.0\classlib.dll
+C:\git\AP00012\FinalProject\wpfclient\classlib\obj\Debug\net6.0\ref\classlib.dll
+C:\git\AP00012\FinalProject\wpfclient\classlib\obj\Debug\net6.0\classlib.pdb

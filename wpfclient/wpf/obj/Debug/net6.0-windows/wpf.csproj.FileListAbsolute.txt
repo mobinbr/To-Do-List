@@ -1,0 +1,158 @@
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\obj\Debug\net6.0-windows\wpf_MarkupCompile.cache
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\obj\Debug\net6.0-windows\wpf_MarkupCompile.lref
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\wpf.exe
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\wpf.deps.json
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\wpf.runtimeconfig.json
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\wpf.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\ref\wpf.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\wpf.pdb
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\JsonSubTypes.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Polly.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\RestSharp.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\classlib.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\ListApiCli.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\classlib.pdb
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\ListApiCli.pdb
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\ListApiCli.xml
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.g.resources
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.csproj.CopyComplete
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\obj\Debug\net6.0-windows\ref\wpf.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.pdb
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\web.deps.json
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\web.runtimeconfig.json
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\appsettings.json
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\openapitools.json
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\swagger.json
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\web.exe
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\web.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\wpfclient\wpf\bin\Debug\net6.0-windows\web.pdb
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\appsettings.json
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\openapitools.json
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\swagger.json
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\web.deps.json
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\web.runtimeconfig.json
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\web.exe
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\wpf.exe
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\wpf.deps.json
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\wpf.runtimeconfig.json
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\wpf.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\ref\wpf.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\wpf.pdb
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\JsonSubTypes.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Polly.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\RestSharp.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\classlib.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\ListApiCli.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\web.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\classlib.pdb
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\ListApiCli.pdb
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\ListApiCli.xml
+C:\git\AP00012\FinalProject\wpfclient\wpf\bin\Debug\net6.0-windows\web.pdb
+C:\git\AP00012\FinalProject\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.csproj.AssemblyReference.cache
+C:\git\AP00012\FinalProject\wpfclient\wpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\git\AP00012\FinalProject\wpfclient\wpf\obj\Debug\net6.0-windows\App.g.cs
+C:\git\AP00012\FinalProject\wpfclient\wpf\obj\Debug\net6.0-windows\wpf_MarkupCompile.cache
+C:\git\AP00012\FinalProject\wpfclient\wpf\obj\Debug\net6.0-windows\wpf_MarkupCompile.lref
+C:\git\AP00012\FinalProject\wpfclient\wpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\git\AP00012\FinalProject\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.g.resources
+C:\git\AP00012\FinalProject\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\AP00012\FinalProject\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.AssemblyInfoInputs.cache
+C:\git\AP00012\FinalProject\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.AssemblyInfo.cs
+C:\git\AP00012\FinalProject\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.csproj.CoreCompileInputs.cache
+C:\git\AP00012\FinalProject\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.csproj.CopyComplete
+C:\git\AP00012\FinalProject\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\obj\Debug\net6.0-windows\ref\wpf.dll
+C:\git\AP00012\FinalProject\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.pdb
+C:\git\AP00012\FinalProject\wpfclient\wpf\obj\Debug\net6.0-windows\wpf.genruntimeconfig.cache

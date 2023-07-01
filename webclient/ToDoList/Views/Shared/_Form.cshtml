@@ -1,0 +1,50 @@
+@model ToDoListViewModel;
+
+<div class="page">
+    <form asp-action="AddItem" id="Add-action" method="post" role="form">
+        <div asp-validation-summary="All"></div>
+            <div class="field field_v1">
+                <label class="ha-screen-reader" asp-for="ToDo.ToDoItemsId">Task Name:</label>
+                <input class="field__input" placeholder="TASK" asp-for="ToDo.ToDoItemsId" type="text" required/>
+                <span class="field__label-wrap" aria-hidden="true">
+                    <span class="field__label">Task Name:</span>
+                </span>
+            </div>
+
+            <br>
+            <div class="field field_v1">
+                <label class="ha-screen-reader" asp-for="ToDo.Details">Details:</label>
+                <input class="field__input" placeholder="DETAIL" asp-for="ToDo.Details"/>
+                <span class="field__label-wrap" aria-hidden="true">
+                    <span class="field__label">Details</span>
+                </span>
+            </div>
+
+            <br>
+            <br>
+            <div class="field field_v3">
+                <label class="ha-screen-reader" asp-for="ToDo.DueTime">Due-to Date:</label>
+                <input class="date" asp-for="ToDo.DueTime" type="datetime-local" required/>
+            </div>
+            <br>
+            <br>
+            <span asp-validation-for="ToDo.ToDoItemsId"></span>
+            <button class="button-m" type="submit" role="button">Add</button>
+    </form>
+
+
+<form asp-action="Delete" id="Delete-action" method="post" role="form">
+    <div asp-validation-summary="All"></div>
+    <div class="field field_v1">
+        <label class="ha-screen-reader" asp-for="ToDo.ToDoItemsId">Task Name:</label>
+        <input class="field__input" placeholder="TASK" asp-for="ToDo.ToDoItemsId" type="text" required/>
+        <span class="field__label-wrap" aria-hidden="true">
+            <span class="field__label">Task Name:</span>
+        </span>
+    </div>
+    <br>
+    <br>
+    <button class="button-m" type="submit" role="button">Delete</button>
+    <br>
+</form>
+</div>

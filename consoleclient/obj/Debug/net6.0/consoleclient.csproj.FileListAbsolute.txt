@@ -1,0 +1,76 @@
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\obj\Debug\net6.0\consoleclient.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\obj\Debug\net6.0\consoleclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\obj\Debug\net6.0\consoleclient.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\obj\Debug\net6.0\consoleclient.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\obj\Debug\net6.0\consoleclient.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\consoleclient.exe
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\consoleclient.deps.json
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\consoleclient.runtimeconfig.json
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\consoleclient.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\ref\consoleclient.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\consoleclient.pdb
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\JsonSubTypes.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\Polly.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\RestSharp.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\ListApiCli.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\ListApiCli.pdb
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\ListApiCli.xml
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\obj\Debug\net6.0\consoleclient.csproj.CopyComplete
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\obj\Debug\net6.0\consoleclient.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\obj\Debug\net6.0\ref\consoleclient.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\obj\Debug\net6.0\consoleclient.pdb
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\obj\Debug\net6.0\consoleclient.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Documents\2 semester\AP\Project\consoleclient\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\consoleclient.exe
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\consoleclient.deps.json
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\consoleclient.runtimeconfig.json
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\consoleclient.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\ref\consoleclient.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\consoleclient.pdb
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\JsonSubTypes.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\Polly.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\RestSharp.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\ListApiCli.dll
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\ListApiCli.pdb
+C:\git\AP00012\FinalProject\consoleclient\bin\Debug\net6.0\ListApiCli.xml
+C:\git\AP00012\FinalProject\consoleclient\obj\Debug\net6.0\consoleclient.csproj.AssemblyReference.cache
+C:\git\AP00012\FinalProject\consoleclient\obj\Debug\net6.0\consoleclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\AP00012\FinalProject\consoleclient\obj\Debug\net6.0\consoleclient.AssemblyInfoInputs.cache
+C:\git\AP00012\FinalProject\consoleclient\obj\Debug\net6.0\consoleclient.AssemblyInfo.cs
+C:\git\AP00012\FinalProject\consoleclient\obj\Debug\net6.0\consoleclient.csproj.CoreCompileInputs.cache
+C:\git\AP00012\FinalProject\consoleclient\obj\Debug\net6.0\consoleclient.csproj.CopyComplete
+C:\git\AP00012\FinalProject\consoleclient\obj\Debug\net6.0\consoleclient.dll
+C:\git\AP00012\FinalProject\consoleclient\obj\Debug\net6.0\ref\consoleclient.dll
+C:\git\AP00012\FinalProject\consoleclient\obj\Debug\net6.0\consoleclient.pdb
+C:\git\AP00012\FinalProject\consoleclient\obj\Debug\net6.0\consoleclient.genruntimeconfig.cache
